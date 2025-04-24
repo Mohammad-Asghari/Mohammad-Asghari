@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohammad-Asghari
 - 👀 I’m interested in Digital Solution development.
-- 🌱 I’m currently doing my projects in React, Python, SharePoint and Power Platform.
+- 🌱 I’m currently doing my projects in React, Type Script, Python, PHP, SharePoint and Power Platform.
 - 💞️ I’m looking to collaborate on Web Application Development and AI Solutions.
 - 📫 You can reach me on contact@lowcodewithmo.com
 
